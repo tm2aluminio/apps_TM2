@@ -1,2 +1,2 @@
-# SisGO_TM2
-Repositório do sistema SisGO TM2
+# apps_TM2
+Repositório do aplicativos da TM2
