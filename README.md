@@ -9,14 +9,14 @@ Página dos aplicativos: https://tm2aluminio.github.io/apps_TM2/
 | Aplicativo | Setor | Para que serve | Link |
 |---|---|---|---|
 | ImportSisGO | Comercial | Lê a planilha de orçamento fechado e gera ou atualiza o arquivo SisGO da obra. | [Abrir](https://tm2aluminio.github.io/apps_TM2/ImportSisGO.html) |
-| SisGO-TM2 | Todos os setores | Planejamento e controle de prazos da obra. | [Abrir](https://tm2aluminio.github.io/apps_TM2/SisGO-TM2%20%284%29.html) |
+| SisGO-TM2 | Todos os setores | Planejamento e controle de prazos da obra. | [Abrir](https://tm2aluminio.github.io/apps_TM2/SisGO-TM2.html) |
 | GCap TM2 | ADM dos setores e gestão | Lê todos os SisGO da pasta, compara a carga diária com a capacidade, aponta as datas críticas e exporta ajustes. | [Abrir](https://tm2aluminio.github.io/apps_TM2/GCap_TM2.html) |
 
 ## Planilha
 
 | Arquivo | Para que serve | Link |
 |---|---|---|
-| SisGO (ver44) | Planilha Excel de cálculo da proposta (modelo com macros, .xltm). | [Baixar](https://tm2aluminio.github.io/apps_TM2/SisGO%20%28ver44%29.xltm) |
+| SisGO | Planilha Excel de cálculo da proposta (modelo com macros, .xltm). | [Baixar](https://tm2aluminio.github.io/apps_TM2/SisGO.xltm) |
 
 ## Manuais e documentos
 
