@@ -2,7 +2,7 @@
 
 Repositório dos aplicativos, manuais e planilhas do **SisGO-TM2**, sistema da TM2 Alumínio para controle de prazos e capacidades dos setores.
 
-Página dos aplicativos: https://tm2aluminio.github.io/apps_TM2/
+Página de entrada (aplicativos, planilha e manuais): https://tm2aluminio.github.io/apps_TM2/
 
 ## Aplicativos
 
