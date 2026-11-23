@@ -14,9 +14,7 @@ Página de entrada (aplicativos, planilha e manuais): https://tm2aluminio.github
 
 ## Planilha
 
-| Arquivo | Para que serve | Link |
-|---|---|---|
-| SisGO | Planilha Excel de cálculo da proposta (modelo com macros, .xltm). | [Baixar](https://tm2aluminio.github.io/apps_TM2/SisGO.xltm) |
+A planilha modelo do SisGO está temporariamente indisponível para download, enquanto o sistema de login é atualizado para não expor senhas. Consulte a administração.
 
 ## Manuais e documentos
 
